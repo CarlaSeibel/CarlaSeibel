@@ -3,7 +3,7 @@
 - 🎓 I'm industrial engineer
 - 🔨 I’m currently working on my portfolio
 - 🌱 I’m currently learning SQL and Python
-- 🤝 I’m looking to collaborate on open data projects and communities for amplify woman in tech
+- 🤝 I’m looking to collaborate on projects and communities for amplify woman in tech
 - 💬 Pronouns: She/Her
 - 👩‍💻 My skills: Data Analysis and Visualization / Power BI / SQL / Python 
 - 📌 Im'm based on Afonso Cláudio, Brazil
