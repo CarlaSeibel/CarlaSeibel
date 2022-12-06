@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning SQL and Python
 - 🤝 I’m looking to collaborate on projects and communities for amplify woman in tech
 - 💬 Pronouns: She/Her
-- 👩‍💻 My skills: Data Analysis and Visualization / Power BI / SQL / Python 
+- 👩‍💻 My skills: Data Analysis / Data Design / Power BI / SQL 
 - 📌 I'm based on Vitoria, Brazil
 
  [![Linkedin Badge](https://img.shields.io/badge/CarlaSeibel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/carla-seibel/)](https://www.linkedin.com/in/carla-seibel/)
