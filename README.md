@@ -1,11 +1,11 @@
 ### Hi, I'm Carla 👋
 
-- 🎓 I'm industrial engineer
+- 🎓 I'm a BI analyst with a background in engineering
+- 📊 I'm pursuing a postgraduate course in data analytics
 - 🔨 I’m currently working on my portfolio
-- 🌱 I’m currently learning SQL and Python
 - 🤝 I’m looking to collaborate on projects and communities for amplify woman in tech
 - 💬 Pronouns: She/Her
-- 👩‍💻 My skills: Data Analysis / Data Design / Power BI / SQL 
+- 👩‍💻 My skills: Business Intelligence / Data Analysis / Dashboard Design / Power BI / SQL / UX & UI Design
 - 📌 I'm based on Vitoria, Brazil
 
  [![Linkedin Badge](https://img.shields.io/badge/CarlaSeibel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/carla-seibel/)](https://www.linkedin.com/in/carla-seibel/)
