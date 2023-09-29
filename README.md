@@ -5,7 +5,7 @@
 - 🔨 I’m currently working on my portfolio
 - 🤝 I’m looking to collaborate on projects and communities for amplify woman in tech
 - 💬 Pronouns: She/Her
-- 👩‍💻 My skills: Business Intelligence / Data Analysis / Dashboard Design / Power BI / SQL / UX & UI Design
+- 👩‍💻 My skills: Data Visualization / Data Analysis / Dashboard Design / Power BI / SQL / UX & UI Design
 - 📌 I'm based on Vitoria, Brazil
 
  [![Linkedin Badge](https://img.shields.io/badge/CarlaSeibel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/carla-seibel/)](https://www.linkedin.com/in/carla-seibel/)
